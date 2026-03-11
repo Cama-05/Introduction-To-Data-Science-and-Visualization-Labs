@@ -1,0 +1,52 @@
+State,Region,Population,Abbr.,Deaths
+Alabama,South,5117850,AL,1292
+Alaska,West,734654,AK,176
+Arizona,West,7452073,AZ,1419
+Arkansas,South,3069856,AR,671
+California,West,39181667,CA,3209
+Colorado,West,5912240,CO,1019
+Connecticut,Northeast,3641369,CT,225
+Delaware,South,1035354,DE,124
+District of Columbia,South,682559,DC,225
+Florida,South,22929248,FL,3253
+Georgia,South,11063669,GA,207
+Hawaii,West,1434950,HI,73
+Idaho,West,1970497,ID,356
+Illinois,Midwest,12633389,IL,1691
+Indiana,Midwest,6881373,IN,1258
+Iowa,Midwest,3214739,IA,341
+Kansas,Midwest,2949749,KS,475
+Kentucky,South,4549953,KY,841
+Louisiana,South,4598777,LA,1261
+Maine,Northeast,1401992,ME,200
+Maryland,South,6204927,MD,737
+Massachusetts,Northeast,7073479,MA,270
+Michigan,Midwest,10062124,MI,1384
+Minnesota,Midwest,5752998,MN,525
+Mississippi,South,2942470,MS,844
+Missouri,Midwest,6205956,MO,1324
+Montana,West,1130612,MT,247
+Nebraska,Midwest,1988172,NE,213
+Nevada,West,3211077,NV,616
+New Hampshire,Northeast,1401530,NH,143
+New Jersey,Northeast,9395315,NJ,430
+New Mexico,West,2119349,NM,530
+New York,Northeast,19786543,NY,943
+North Carolina,South,10871849,NC,1803
+North Dakota,Midwest,787071,ND,103
+Ohio,Midwest,11808390,OH,1768
+Oklahoma,South,4062716,OK,814
+Oregon,West,4250392,OR,642
+Pennsylvania,Northeast,13009406,PA,1807
+Rhode Island,Northeast,1101183,RI,58
+South Carolina,South,5390798,SC,1019
+South Dakota,Midwest,917739,SD,112
+Tennessee,South,7153029,TN,1587
+Texas,South,30719247,TX,4561
+Utah,West,3449259,UT,489
+Vermont,Northeast,647722,VT,83
+Virginia,South,8732034,VA,1237
+Washington,West,7838655,WA,1053
+West Virginia,South,1770036,WV,315
+Wisconsin,Midwest,5930350,WI,762
+Wyoming,West,584666,WY,130
