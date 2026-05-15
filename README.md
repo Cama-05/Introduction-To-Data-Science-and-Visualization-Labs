@@ -54,23 +54,23 @@ The labs follow a structured learning path: starting from spreadsheet-based desc
 - Python 3.11+
 - JupyterLab or VS Code with the Jupyter extension
 
-### Install all dependencies
+### Install dependencies
+
+Each lab manages its own dependencies independently. Navigate into the lab folder and install from its local `requirements.txt`:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Cama-05/Introduction-To-Data-Science-and-Visualization-Labs.git
-cd Introduction-To-Data-Science-and-Visualization-Labs
+cd dsv-lab-X
 
 # (Recommended) Create a virtual environment
 python -m venv .venv
 source .venv/bin/activate        # macOS / Linux
 .venv\Scripts\activate           # Windows
 
-# Install all global dependencies
+# Install lab-specific dependencies
 pip install -r requirements.txt
 ```
 
-> **Note:** Labs 5, 6, and 7 also support [uv](https://docs.astral.sh/uv/) as an optional fast package manager. Each of those folders includes a `pyproject.toml` and `uv.lock` file. Some labs also include their own local `requirements.txt` with pinned versions — refer to the individual lab's `README.md` for details.
+> **Note:** Labs 5, 6, and 7 also support [uv](https://docs.astral.sh/uv/) as an optional fast package manager — each of those folders includes a `pyproject.toml` and `uv.lock` file for reproducible installs.
 
 ---
 
